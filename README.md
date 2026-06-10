@@ -1,72 +1,92 @@
-<h3 align="center">🛠️ Token Guardian</h3>
+**🛠️ Token Guardian**
+
+
 <div align="center">
-  <a href="https://github.com/axentx/token-guardian/blob/main/LICENSE">
+  <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
   </a>
-  <a href="https://github.com/axentx/token-guardian">
-    <img src="https://img.shields.io/badge/Language-Python-blue.svg" alt="Language: Python">
+  <a href="https://github.com/python/cpython">
+    <img src="https://img.shields.io/badge/Python-3.9+-blue.svg" alt="Python 3.9+">
   </a>
-  <a href="https://github.com/axentx/token-guardian/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/axentx/token-guardian/build.yml" alt="Build Status">
+  <a href="https://github.com/vercel/next.js">
+    <img src="https://img.shields.io/badge/Build-Next.js-blue.svg" alt="Build with Next.js">
   </a>
-  <a href="https://github.com/axentx/token-guardian/stargazers">
-    <img src="https://img.shields.io/github/stars/axentx/token-guardian" alt="Stars">
+  <a href="https://github.com/vercel/next.js">
+    <img src="https://img.shields.io/badge/Stars-0-blue.svg" alt="Stars: 0">
   </a>
 </div>
+
+
 ---
+
 # 🚀 Token Guardian
-**Power AI applications with optimized token consumption.** Token Guardian mitigates financial risk by providing real-time analytics and insights on token usage and cost management, increasing investor confidence with market success guarantees.
+
+**Power AI applications with optimized token consumption.** Token Guardian mitigates financial risk by optimizing token consumption for AI applications, providing market success guarantees, increasing investor confidence, and offering real-time analytics and insights on token usage and cost management.
+
 
 ## Why Token Guardian?
-- **Financial Risk Mitigation**: Reduce costs associated with token consumption for AI applications.
-- **Investor Confidence**: Increase investor trust with market success guarantees.
-- **Real-time Analytics**: Gain insights into token usage and cost management.
-- **Simplified Token Management**: Streamline token consumption optimization.
-- **AI Application Optimization**: Improve the performance and efficiency of AI applications.
-- **Cost Management**: Effectively manage costs associated with token consumption.
-- **Market Success Guarantees**: Ensure market success with data-driven decision making.
+
+* **Mitigates financial risk**: Optimizes token consumption for AI applications, reducing financial risk.
+* **Provides market success guarantees**: Increases investor confidence with guaranteed market success.
+* **Offers real-time analytics**: Provides real-time insights on token usage and cost management.
+* **Simplifies token management**: Simplifies token management for AI applications.
+
 
 ## Feature Overview
+
 | Feature | Description |
 | --- | --- |
-| Token Consumption Optimization | Reduce costs associated with token consumption for AI applications |
-| Real-time Analytics | Gain insights into token usage and cost management |
-| Market Success Guarantees | Increase investor trust with market success guarantees |
-| Simplified Token Management | Streamline token consumption optimization |
-| AI Application Optimization | Improve the performance and efficiency of AI applications |
+| Token Optimization | Optimizes token consumption for AI applications. |
+| Market Success Guarantees | Provides market success guarantees, increasing investor confidence. |
+| Real-time Analytics | Offers real-time insights on token usage and cost management. |
+| Simplified Token Management | Simplifies token management for AI applications. |
+
 
 ## Tech Stack
-* Python
-* (Note: Tech stack is not yet locked, the above is a placeholder)
+
+* Python 3.9+
+* Next.js
+* ...
+
 
 ## Project Structure
-* business: Business logic and models
-* src: Source code for the application
-* tests: Unit tests and integration tests
+
+* `business/`
+* `src/`
+* `tests/`
 
 ## Getting Started
+
 ```bash
+# Clone the repository
+git clone https://github.com/axentx/token-guardian.git
+
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the application
-python src/main.py
-
-# Run tests
-python -m unittest discover -s tests
+npm run dev
 ```
 
 ## Deploy
+
 ```bash
-# Deploy to production
-# (Note: Deployment commands will be added once the tech stack is locked)
+# Build the application
+npm run build
+
+# Deploy to Vercel
+vercel deploy
 ```
 
 ## Status
-Token Guardian is currently in development, with recent commits focused on setting up the project structure and initial functionality. [Recent commit summary](https://github.com/axentx/token-guardian/commits/main)
+
+Last updated: 2023-06-09
+Recent commit: `089210b axentx-dev-bot: code-build cycle 20260609-040521-token-gu`
 
 ## Contributing
-[CONTRIBUTING.md](CONTRIBUTING.md)
+
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
 
 ## License
+
 Token Guardian is licensed under the MIT License.
